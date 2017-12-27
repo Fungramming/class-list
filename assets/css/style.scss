@@ -1,0 +1,47 @@
+---
+---
+
+@import 'jekyll-theme-cayman';
+
+.page-header {
+   text-align: center;
+   background-image: url("/class-1/assets/main-image.jpg");
+   background-attachment: fixed;
+   background-size: cover;
+   height: 550px;
+   padding-top: 140px;
+}
+
+.project-name {
+   margin-top: 24px;
+}
+
+.project-tagline {
+   opacity: unset;
+   font-size: 27px;
+}
+
+.btn {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 13px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 30px 2px;
+    -webkit-transition-duration: 0.4s; 
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.page-header > .btn {
+    background-color: #4CAF50; 
+    color: white; 
+}
+
+.page-header > .btn:hover {
+    background-color: #4fbc54;
+    color: white;
+}
