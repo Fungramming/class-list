@@ -8,4 +8,4 @@
 
 [재미그래밍 2기](https://fungramming.github.io/class-2/)
 
-[재미그래밍 3기(모집중)](https://fungramming.github.io/class-3/)
+[재미그래밍 3기](https://fungramming.github.io/class-3/)
